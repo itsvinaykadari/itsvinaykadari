@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Structures & Algorithms and coding practice<br>👯 I’m looking to collaborate on beginner-friendly coding and data projects<br>🤝 I’m looking for help with writing optimized and clean code<br>🌱 I’m currently learning Python and solving DSA problems using Python<br>💬 Ask me about DSA problems, coding logic, and problem-solving<br>⚡ Fun fact: I enjoy debugging more than writing code 😄
+🔭 I’m currently working as an AI & Product Engineer at GrowthAXL, exploring AI agents and product workflows<br>🤖 I’m currently understanding how AI agents work, how they connect with tools, and how they can be tested locally and on tenant environments<br>🌱 I’m currently learning Python, Data Structures & Algorithms, and solving DSA problems using Python<br>👯 I’m looking to collaborate on AI projects, beginner-friendly coding projects, and data projects<br>🤝 I’m looking for help with writing optimized, clean, and production-ready code<br>💬 Ask me about DSA problems, Python coding logic, AI agents, RAG systems, and problem-solving<br>🎓 I completed my M.Tech in Computer Science from IIT Hyderabad<br>⚡ Fun fact: I enjoy debugging more than writing code 😄
 
 
 ## 🌐 Socials:
